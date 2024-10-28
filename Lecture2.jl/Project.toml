@@ -1,0 +1,10 @@
+name = "Lecture2"
+uuid = "f8d1b6ac-9ded-4249-9b17-741652299aa1"
+authors = ["VincenzoGanci <nuccio.ganci@outlook.it>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+
+[compat]
+DifferentialEquations = "7.14.0"
