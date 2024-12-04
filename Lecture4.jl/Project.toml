@@ -1,0 +1,12 @@
+name = "Lecture4"
+uuid = "d2693f47-984b-4659-85ca-6408ec718843"
+authors = ["VincenzoGanci <nuccio.ganci@outlook.it>"]
+version = "0.1.0"
+
+[deps]
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
+[compat]
+DynamicalSystems = "3.3.25"
+OrdinaryDiffEq = "6.89.0"

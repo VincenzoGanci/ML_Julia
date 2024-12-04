@@ -18,4 +18,3 @@ x=logistic(x0,r,N);
 # print(x)
 plot(x, xlims=[0, 60], title = "Logistic Map with r=3.12", xlabel = "Steps", ylabel = "Population")
 
-r=
